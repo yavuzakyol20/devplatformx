@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DevPlatformX.Api.props" />
+</Project>

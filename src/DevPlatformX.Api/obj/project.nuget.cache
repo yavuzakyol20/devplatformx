@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LcizjObmfWU=",
+  "success": true,
+  "projectFilePath": "/Users/yavuzakyol/devplatformx/src/DevPlatformX.Api/DevPlatformX.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/yavuzakyol/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/yavuzakyol/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

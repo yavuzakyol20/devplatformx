@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "piQgmSHan9tp1KkDJBDYPGO/vG+Q71nrVltgAS32nBo=",
+  "Source": "DevPlatformX.Api",
+  "BasePath": "_content/DevPlatformX.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
